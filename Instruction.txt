@@ -1,0 +1,19 @@
+Download and install python3
+
+Extract zip file of bot and open folder
+
+Go to address bar and write cmd and enter
+
+write requitements.txt and hit enter
+All required libraries will installed 
+
+Now write python main.py and hit enter
+
+bot will start running.
+
+
+zip.csv file should be in same folder/directory otherwise it will generate error.
+
+for further assistant contact developer
+
+enjoy!!!!
